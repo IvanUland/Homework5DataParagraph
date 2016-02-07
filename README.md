@@ -1,0 +1,2 @@
+# Homework5DataParagraph
+Data Normalization is a technique using a bell curve to show the majority and the outliers in an experiment. It can be used as a marketing technique with online stores like Amazon or Ebay. They store the data of your viewing and purchase history and then offer items that are related. This will maximize their profits since it cuts down the time it takes for the user to sift through all the postings.
